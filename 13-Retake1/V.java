@@ -1,6 +1,5 @@
-public class Vehicle {
+public class V {
     private int seats;
-    Vehicle(int seats){this.seats=seats;}
+    V(int seats){this.seats=seats;}
     public int getSeats(){return seats;}
-
 }
